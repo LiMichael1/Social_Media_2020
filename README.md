@@ -4,5 +4,5 @@ Using text sentimental analysis to gauge the public sentiment, amongst the ever 
 
 Using pandas, matplotlib, tweepy, textblob  
   
-Required: Your own Twitter Consumer Key/Key Secret and Access Token/Token Secret
+Required: Your own Twitter Consumer Key/Secret and Access Token/Secret
 
